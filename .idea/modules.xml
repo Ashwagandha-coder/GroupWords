@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GroupWord/GroupWord.iml" filepath="$PROJECT_DIR$/GroupWord/GroupWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GroupWords.iml" filepath="$PROJECT_DIR$/.idea/GroupWords.iml" />
     </modules>
   </component>
